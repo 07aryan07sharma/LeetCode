@@ -6,6 +6,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/07aryan07sharma/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/07aryan07sharma/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -15,4 +16,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/07aryan07sharma/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/07aryan07sharma/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
